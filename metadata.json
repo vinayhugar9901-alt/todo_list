@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Clarity",
+  "description": "A focused, high-cadence task and workflow workspace designed for knowledge workers and product teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
